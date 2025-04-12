@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil Joshi</h1>
 <h3 align="center">A high school developer from California</h3>
 
-- 🔭 I’m currently working on [SnapCycle](coming soon)
+- 🔭 I’m currently working on [SnapCycle](https://github.com/SahilJoshi121/SnapCycle)
 
 - 🌱 I’m currently learning **iOS App Development**
 
